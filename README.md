@@ -50,7 +50,7 @@ project/
 * Ruby
 * Sinatra
 * ActiveRecord
-* SQLite3
+* MySQL
 * RSpec
 
 ---
