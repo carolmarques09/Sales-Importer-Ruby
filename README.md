@@ -31,7 +31,7 @@ project/
 │   └── setup.sql
 │
 ├── lib/
-│   └── parser.rb (opcional)
+│   └── parser.rb
 │
 ├── spec/                 
 │   ├── models/
