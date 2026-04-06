@@ -21,22 +21,29 @@ project/
 │
 ├── app/
 │   ├── controllers/
-│   ├── services/
 │   ├── models/
+│   ├── services/
+│
+├── config/
+│   └── database.yml
 │
 ├── db/
-│   └── schema.rb
+│   └── setup.sql
 │
 ├── lib/
-│   └── parser.rb
+│   └── parser.rb (opcional)
 │
-├── spec/ (ou test/)
+├── spec/                 
+│   ├── models/
+│   │   └── item_spec.rb
+│   ├── services/
+│   │   └── import_sales_spec.rb
+│
+├── app.rb                
 ├── config.ru
 ├── Gemfile
-└── README.md
-```
-
----
+├── README.md
+└── LICENSE
 
 ## ⚙️ Tecnologias Utilizadas
 
