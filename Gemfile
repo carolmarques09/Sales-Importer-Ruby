@@ -5,10 +5,10 @@ ruby "3.2.0"
 # Banco de dados (MySQL)
 gem "mysql2"
 
-# Manipulação de CSV (já vem no Ruby, mas pode reforçar)
+# Manipulação de CSV 
 gem "csv"
 
-# Organização / utilidades (opcional)
+# Organização / utilidades
 gem "dotenv"
 
 # ===== TESTES =====
