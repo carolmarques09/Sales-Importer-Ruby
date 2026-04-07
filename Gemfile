@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.2.0"
+ruby "3.4.9"
 
 # Banco de dados (MySQL)
 gem "mysql2"
